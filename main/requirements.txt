@@ -1,0 +1,20 @@
+## How to Run
+
+1. Clone the repository:
+   
+
+2. Compile the program:
+  
+
+3. Run the compiled program:
+
+### Tools:
+- **C++ Compiler** with support for C++11 or later.
+- **Windows OS** (due to the use of `<windows.h>` for `Sleep`).
+
+### Libraries:
+- `<thread>`
+- `<mutex>`
+- `<condition_variable>`
+- `<fstream>` for file I/O
+- `<cstdlib>` and `<ctime>` for random number generation
