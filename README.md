@@ -1,6 +1,7 @@
 # Game 21 - Multithreaded Simulation
 
-This is finished simulation program, witch simulate game between two players in russian version of popular card game called `balck jack`.
+
+This is a ready-made simulator program that simulates a game between two players in the Russian version of the popular card game called `blackjack`.
 
 ---
 
