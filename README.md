@@ -1,10 +1,13 @@
 # Game 21 - Multithreaded Simulation
 
-This project is a multithreaded implementation of the popular card game "21". The game simulates two players attempting to reach a total score of 21 or as close as possible without exceeding it. The entire game logic is implemented using C++ and demonstrates the use of threads, synchronization primitives, and file I/O.
+This is finished simulation program, witch simulate game between two players in russian version of popular card game called `balck jack`.
 
 ---
 
 ## Features
+
+- **Realesed by using C++**
+- **Used intel from book -> `anthony williams c++ concurrency in action`**
 
 - **Multithreaded Execution**:
   - First thread generates random numbers (simulating card draws).
